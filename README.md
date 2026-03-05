@@ -6,7 +6,7 @@ Plastic pollution from fossil-fuels ia a major global environmental challenge. M
 This project develops an hybrid computational framework to identify cost-efficient and biologically feasible PHB production strategies using the phototrophic bacterium Rhodopseudomonas palustris. 
 This framework combines:
 - Genome-scale metabolic modeling (GEM)
-- Machine learning surrogate modeling
+- Machine learning surrogate modeling (CatBoost)
 - Pareto multi-objective optimization
 - Thermodynamics-based flux analysis (TFA)
 
