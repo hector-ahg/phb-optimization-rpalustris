@@ -10,7 +10,7 @@ This framework combines:
 - Pareto multi-objective optimization
 - Thermodynamics-based flux analysis (TFA)
 
-Together, these approaches aenable exploration of large metabolic and environmental design spaces that otherwise would be impractical to evaluate to propose cost-effective production strategies that can be validated experimentally. 
+Together, these approaches enable exploration of large metabolic and environmental design spaces that otherwise would be impractical to evaluate. As result, this approach proposes cost-effective production strategies that can be validated experimentally. 
 
 ## Data
 
