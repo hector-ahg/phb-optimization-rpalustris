@@ -19,13 +19,14 @@ Additionally, literature data was collected and used for definining the substrat
 
 ## Repository Structure
 
+```
 phb-optimization-rpalustris/
 │
 ├── notebooks/ # Jupyter notebooks for analyses
 ├── src/ # Python utility modules
 ├── data/ # Input datasets
 └── README.md
-
+```
 ## Clone the repository
 
 To download this repository to your local machine:
@@ -33,6 +34,7 @@ To download this repository to your local machine:
 ```bash
 git clone https://github.com/hector-ahg/phb-optimization-rpalustris.git
 cd phb-optimization-rpalustris
+```
 
 ## Author
-Hector Hernandez Gonzalez, PhD in Computational Biology
+Hector Hernandez Gonzalez, PhD
