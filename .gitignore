@@ -1,0 +1,32 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Logs
+logs/
+*.log
+
+# CatBoost artifacts
+catboost_info/
+
+# Heavy outputs
+results/
+models/
+
+# Temporary data
+*.tmp
+*.temp
+
+# Ignore local python environment accidentally copied
+usr/
+lib/
+dist-packages/
+bin/
+include/
+
+# OS
+.DS_Store
