@@ -21,11 +21,9 @@ Additionally, literature data was collected and used for definining the substrat
 
 phb-optimization-rpalustris/
 │
-├── notebooks/        # Jupyter notebooks for analyses
-├── src/              # Python utility modules (paths, helpers)
-├── data/             # Input datasets
-├── models/           # Genome-scale models and derived models
-├── results/          # Figures, tables, and outputs
+├── notebooks/ # Jupyter notebooks for analyses
+├── src/ # Python utility modules
+├── data/ # Input datasets
 └── README.md
 
 ## Clone the repository
