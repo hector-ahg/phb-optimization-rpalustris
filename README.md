@@ -14,7 +14,7 @@ Together, these approaches enable exploration of large metabolic and environment
 
 ## Data
 
-Experimental data from Buitron et al. 2025 was used. 
+Experimental data from Montiel-Corona and Buitrón (2022, 2023, 2025) and presented as a compound dataset in Buitrón et al. (2025),  was used. 
 Additionally, literature data was collected and used for definining the substrates and calculating their uptake flux ranges used in GEM. 
 
 ## Repository Structure
