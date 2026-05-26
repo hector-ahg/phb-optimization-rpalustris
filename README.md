@@ -37,4 +37,4 @@ cd phb-optimization-rpalustris
 ```
 
 ## Author
-Hector Hernandez Gonzalez, PhD
+Héctor A. Hernández-González, PhD
